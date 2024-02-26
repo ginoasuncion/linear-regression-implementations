@@ -4,7 +4,7 @@ This repo will contain different implementations of linear regression.
 
 Here are the current implementations that are present:
 
-1. Closed-form solution of linear Regression
+1. Closed-form solution of linear regression
 2. Linear regression with Pytorch using gradient descent algorithm.
 
 ## To-Do:
